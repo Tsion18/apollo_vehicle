@@ -25,7 +25,7 @@ This project is a simple RESTful web service that provides CRUD-style API access
 ### 1. Clone the Repository
 ```bash
 git clone 
-cd Apollo
+cd apollo_vehicle
 ```
 
 ### 2. Install Node Dependencies
